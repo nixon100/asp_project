@@ -1,0 +1,243 @@
+[
+ 
+    {
+        "Category": "Shorts",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Mens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Polo",
+        "Gender": "Mens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Mens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Shirt",
+        "Gender": "Mens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Capri",
+        "Gender": "Infant",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "legging",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "pyjama",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Track",
+        "Gender": "Infant",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Trousers",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Infant",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Camisole",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Tights",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Top",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Nightsuit",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Leggings",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Shrug",
+        "Gender": "Infant",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Skirt",
+        "Gender": "Girls",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Mens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    },
+    {
+        "Category": "Bra",
+        "Gender": "Womens",
+        "FBA": 25,
+        "__EMPTY": 20,
+        "__EMPTY_1": 18,
+        "__EMPTY_2": 40
+    }
+]

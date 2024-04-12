@@ -1,0 +1,58 @@
+[
+    {
+        "Category": "Brief",
+        "Gender": "Girls",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Mens",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Womens",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Womens",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "pyjama",
+        "Gender": "Womens",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "Trousers",
+        "Gender": "Womens",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Girls",
+        "Item Price": "<=1000",
+        "Referral fee": 0.12,
+        "Item Price_1": ">1000",
+        "Referral fee_1": 0.225
+    }
+]

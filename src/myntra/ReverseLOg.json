@@ -1,0 +1,35 @@
+{
+    "Sheet1": [
+   
+      {
+        "Reverse Logistics CPU": "Level I",
+        "__EMPTY": 50,
+        "__EMPTY_1": 60,
+        "__EMPTY_2": 80
+      },
+      {
+        "Reverse Logistics CPU": "Level 2",
+        "__EMPTY": 60,
+        "__EMPTY_1": 70,
+        "__EMPTY_2": 95
+      },
+      {
+        "Reverse Logistics CPU": "Level 3",
+        "__EMPTY": 70,
+        "__EMPTY_1": 85,
+        "__EMPTY_2": 105
+      },
+      {
+        "Reverse Logistics CPU": "Level 4",
+        "__EMPTY": 75,
+        "__EMPTY_1": 90,
+        "__EMPTY_2": 110
+      },
+      {
+        "Reverse Logistics CPU": "Level 5",
+        "__EMPTY": 235,
+        "__EMPTY_1": 275,
+        "__EMPTY_2": 305
+      }
+    ]
+  }

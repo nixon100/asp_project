@@ -1,0 +1,331 @@
+[
+  
+    {
+        "__EMPTY": "night_suit",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "night_dress_nighty",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "pyjama",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "capri",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "trouser",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "t_shirt",
+        "__EMPTY_1": "Men",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "bra",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "legging",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "shrug",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "shrug",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_dress",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_short",
+        "__EMPTY_1": "Baby-girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kurta",
+        "__EMPTY_1": "Men",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "dress",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "shirt",
+        "__EMPTY_1": "Men",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "tight",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "water_dispenser",
+        "__EMPTY_1": "-",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "short",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_legging",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_capri",
+        "__EMPTY_1": "Baby-girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "top",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "panty",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "skirt",
+        "__EMPTY_1": "Baby-girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "track_pant",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "camisole_slip",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kaftan",
+        "__EMPTY_1": "Women",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_track_pant",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "pyjama",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_short",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "t_shirt",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_short",
+        "__EMPTY_1": "boys",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "shrug",
+        "__EMPTY_1": "Baby-girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "trouser",
+        "__EMPTY_1": "Men",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_short",
+        "__EMPTY_1": "Baby- boys",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_dress",
+        "__EMPTY_1": "Baby-girls",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "short",
+        "__EMPTY_1": "Men",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_legging",
+        "__EMPTY_1": "Baby-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "skirt",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kurta",
+        "__EMPTY_1": "Women",
+        "Prepaid": 0,
+        "__EMPTY_2": 0,
+        "Postpaid": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "kids_short",
+        "__EMPTY_1": "Baby-boys",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    },
+    {
+        "__EMPTY": "kids_capri",
+        "__EMPTY_1": "Kids-Girls",
+        "Prepaid": 12.5,
+        "__EMPTY_2": 0.02,
+        "Postpaid": 12.5,
+        "__EMPTY_3": 0.02
+    }
+]

@@ -1,0 +1,243 @@
+[
+ 
+    {
+        "Category": "Shorts",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Mens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Polo",
+        "Gender": "Mens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Mens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Shirt",
+        "Gender": "Mens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Capri",
+        "Gender": "Infant",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "legging",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "pyjama",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Track",
+        "Gender": "Infant",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Trousers",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Infant",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Camisole",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Tights",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Top",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Nightsuit",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Leggings",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Shrug",
+        "Gender": "Infant",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Skirt",
+        "Gender": "Girls",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Mens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    },
+    {
+        "Category": "Bra",
+        "Gender": "Womens",
+        "Easy Ship Prime only": 8,
+        "__EMPTY": 12,
+        "__EMPTY_1": 30,
+        "__EMPTY_2": 56
+    }
+]

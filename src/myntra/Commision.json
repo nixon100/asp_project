@@ -1,0 +1,13 @@
+{
+    "Sheet1": [
+      {
+        "Brand": "Kryptic",
+        "ArticleType": "Tshirts",
+        "Gender": "Men",
+        "Commission": 0.14
+      },
+      {
+        "Commission": 0.15
+      }
+    ]
+  }

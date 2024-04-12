@@ -1,0 +1,35 @@
+{
+    "Sheet1": [
+   
+      {
+        "Forward Logistics CPU": "Level I",
+        "__EMPTY": 42,
+        "__EMPTY_1": 52,
+        "__EMPTY_2": 77
+      },
+      {
+        "Forward Logistics CPU": "Level 2",
+        "__EMPTY": 52,
+        "__EMPTY_1": 72,
+        "__EMPTY_2": 102
+      },
+      {
+        "Forward Logistics CPU": "Level 3",
+        "__EMPTY": 97,
+        "__EMPTY_1": 92,
+        "__EMPTY_2": 122
+      },
+      {
+        "Forward Logistics CPU": "Level 4",
+        "__EMPTY": 102,
+        "__EMPTY_1": 132,
+        "__EMPTY_2": 157
+      },
+      {
+        "Forward Logistics CPU": "Level 5",
+        "__EMPTY": 222,
+        "__EMPTY_1": 262,
+        "__EMPTY_2": 312
+      }
+    ]
+  }
