@@ -506,8 +506,8 @@ return goalSeekResult
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   return (
     <div>
-    <button onClick={step1}>Calc ASP</button>
-    <h1>Amazon</h1>
+    <button id="xyz" onClick={step1}>Calc ASP</button>
+    {props.dropdown == "volvo" ? <h1>Amazon - Easy Ship</h1>:props.dropdown == "saab"? <h1>Amazon - Prime Only</h1>:props.dropdown == "mercedes"?<h1>Amazon - FBA</h1>:null}
    </div>
   )
   }

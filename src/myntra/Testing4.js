@@ -345,7 +345,7 @@ function newton (payment,i,commision,j){
     }
     return (
         <div>
-        <button onClick={step1}>Calc ASP</button>
+        <button  id="xyz" onClick={step1}>Calc ASP</button>
         {/* <Newton data = {res} state2 = {props.data2} ></Newton> */}
         <h1>Myntra</h1>
        </div>

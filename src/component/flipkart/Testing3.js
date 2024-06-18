@@ -23,8 +23,7 @@ const step1 = () => {
   for (let i = 0; i < W.length; i++) {
     const Wl = W[i].Category.toLowerCase();
     const El=  W[i].gender.toLowerCase();
-   // //console.log("w-category",Wl)
-  
+   console.log("w-category",Wl)
     
     const paymentRealized = W[i]['Payment Realized'];
     for (let j = 0; j < Q.length; j++) {
@@ -32,7 +31,7 @@ const step1 = () => {
       const Dl = Q[j].Gender.toLowerCase();
       const Ql = Sub.toLowerCase();
       
-     // //console.log("q-category",Ql )
+     console.log("q-category",Ql )
 
       // if ((W[i].Category =="water_dispenser" ) || ((Wl== "pyjama") && (El=="Kids-Girls")) || ((Wl== "shrug") && (El=="Baby-girls"))){
 
@@ -412,7 +411,7 @@ return goalSeekResult
 
 return (
   <div>
-    <button onClick={step1}>Calc ASP</button>
+    <button id="xyz"onClick={step1}>Calc ASP</button>
     {/* <Newton data = {res} state2 = {props.data2} ></Newton> */}
     <h1>Flipkart</h1>
    </div>

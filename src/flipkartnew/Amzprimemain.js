@@ -3,20 +3,18 @@ import '../App.css'
 import { useEffect } from 'react';
 import { useState } from 'react';
 import * as XLSX from 'xlsx/xlsx.mjs';
-import template from './template.json'
-import Testing from './testing';
-import Testing1 from './Testing1';
-import Testing3 from './flipkart/Testing3';
-import template00 from './template00.json'
-import referenceFlipkart from './referencevalueF.json'
-import referenceAmazon from './referenceValueA.json'
-import Testing4 from '../myntra/Testing4';
+import template from '../component/template.json'
+import Testing from '../component/testing';
+
+import template00 from '../component/template00.json'
+import referenceFlipkart from '../component/referencevalueF.json'
+import referenceAmazon from '../component/referenceValueA.json'
 import TemplateM from '../myntra/TemplateM.json';
 import ReferenceN from '../myntra/ReferenceN.json'
 import { useNavigate } from 'react-router-dom';
 import Home from '../pages/Home'
 
-const Excel2 = () => {
+const Amzprimemain = () => {
     const [data2, setData2] = useState([]);
     const [dropdown,setDropdown]=useState("volvo")
     const [test111,setTest111] = useState("fd")
@@ -60,7 +58,7 @@ const Excel2 = () => {
 
     /////////templat download ////////////
     const downloadExcel1 = () => {
-      if ((dropdown==="volvo")|| (dropdown==="saab") || (dropdown==="mercedes") ) {
+      
         const worksheet = XLSX.utils.json_to_sheet(template00);
         // console.log(worksheet)
         const workbook = XLSX.utils.book_new();
@@ -68,44 +66,11 @@ const Excel2 = () => {
 
         XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
         XLSX.writeFile(workbook, "sample-file.xlsx");
-      }else if (dropdown ==="Dodge") {
-        const worksheet = XLSX.utils.json_to_sheet(TemplateM);
-        // console.log(worksheet)
-        const workbook = XLSX.utils.book_new();
-        // console.log(workbook)
-
-        XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
-        XLSX.writeFile(workbook, "sample-file.xlsx");
-      }else {
-        const worksheet = XLSX.utils.json_to_sheet(template);
-        // console.log(worksheet)
-        const workbook = XLSX.utils.book_new();
-        // console.log(workbook)
-
-        XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
-        XLSX.writeFile(workbook, "sample-file.xlsx");
-      }
-   
+      
       };
       /////////templat download ////////////
   const downloadExcel2 = () => {
-    if (dropdown =="audi") {
-      const worksheet = XLSX.utils.json_to_sheet(referenceFlipkart);
-      // console.log(worksheet)
-      const workbook = XLSX.utils.book_new();
-      // console.log(workbook)
-
-      XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
-      XLSX.writeFile(workbook, "sample-file.xlsx");
-    }else if (dropdown =="Dodge") {
-      const worksheet = XLSX.utils.json_to_sheet(ReferenceN);
-      // console.log(worksheet)
-      const workbook = XLSX.utils.book_new();
-      // console.log(workbook)
-
-      XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
-      XLSX.writeFile(workbook, "sample-file.xlsx");
-    }else {
+   
       const worksheet = XLSX.utils.json_to_sheet(referenceAmazon);
       // console.log(worksheet)
       const workbook = XLSX.utils.book_new();
@@ -113,7 +78,7 @@ const Excel2 = () => {
 
       XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
       XLSX.writeFile(workbook, "sample-file.xlsx");
-    }
+    
   
     };
 ////////////template download////////////////   
@@ -137,18 +102,11 @@ const Excel2 = () => {
       //   }
       // },[dropdown])
       
-      function Dropd() {
-        if (dropdown==="audi") {
-          return <Testing3 data2={data2} setData2={setData2} dropdown = {dropdown} />
-        }else if(dropdown==="Dodge"){
-          return <Testing4 data2={data2} setData2={setData2} dropdown = {dropdown}/>
-        }else{
-          return <Testing data2={data2} setData2={setData2} dropdown = {dropdown}/>
-
-        }
-      }
+   
       const logoutHandler = (e) => {
         e.preventDefault();
+        // localStorage.removeItem("auth");
+        // setLogout(true);
         Navigate("/");
       };
 
@@ -167,16 +125,7 @@ const Excel2 = () => {
     />
    
   {/* <Home setDropdown={setDropdown}/> */}
-  <label for="cars">Choose:</label>
-
-<select id="cars"  onChange={df}>
-  <option value="volvo">Amazon - Easy Ship</option>
-  <option value="saab">Amazon - Prime Only</option>
-  <option value="mercedes">Amazon - FBA</option>
-  <option value="audi">Flipkart</option>
-  <option value="Dodge">Myntra</option>
-</select>
-{Dropd()}
+  <Testing data2={data2} setData2={setData2} dropdown = {"saab"}/>
 </div>
 
 
@@ -236,9 +185,9 @@ const Excel2 = () => {
 </table>
 )}
     <div className="App">
-    <button onClick={downloadExcel1}>Download Excel Template</button>
-    <button onClick={downloadExcel2}>Download Reference Name</button>
-    <button onClick={downloadExcel}>Download as Excel</button>
+    <button id='xyz' onClick={downloadExcel1}>Download Excel Template</button>
+    <button id='xyz' onClick={downloadExcel2}>Download Reference Name</button>
+    <button id='xyz' onClick={downloadExcel}>Download as Excel</button>
     </div>
     
    {/* <Testing1 data2={data2} setData2={setData2}/> */}
@@ -246,4 +195,4 @@ const Excel2 = () => {
   )
 }
 
-export default Excel2
+export default Amzprimemain

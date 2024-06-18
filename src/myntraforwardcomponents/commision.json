@@ -1,0 +1,204 @@
+{
+    "Sheet1": [
+      {
+        "Brand": "DressBerry",
+        "Gender": "Women",
+        "Article_Type": "Tops",
+        "Shipping Level": 1,
+        "Commission_Percentage": 4,
+        "MFB": 2,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 7
+      },
+      {
+        "Brand": "DressBerry",
+        "Gender": "Women",
+        "Article_Type": "Shirts",
+        "Shipping Level": 1,
+        "Commission_Percentage": 7,
+        "MFB": 2,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 10
+      },
+      {
+        "Brand": "DressBerry",
+        "Gender": "Women",
+        "Article_Type": "Dresses",
+        "Shipping Level": 1,
+        "Commission_Percentage": 9,
+        "MFB": 2,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 12
+      },
+      {
+        "Brand": "House of Pataudi",
+        "Gender": "Men",
+        "Article_Type": "Kurta Sets",
+        "Shipping Level": 2,
+        "Commission_Percentage": 6,
+        "MFB": 2,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 17
+      },
+      {
+        "Brand": "House of Pataudi",
+        "Gender": "Women",
+        "Article_Type": "Kurta Sets",
+        "Shipping Level": 2,
+        "Commission_Percentage": 6,
+        "MFB": 2,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 17
+      },
+      {
+        "Brand": "House of Pataudi",
+        "Gender": "Men",
+        "Article_Type": "Kurtas",
+        "Shipping Level": 1,
+        "Commission_Percentage": 6,
+        "MFB": 2,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 17
+      },
+      {
+        "Brand": "House of Pataudi",
+        "Gender": "Women",
+        "Article_Type": "Kurtas",
+        "Shipping Level": 1,
+        "Commission_Percentage": 6,
+        "MFB": 2,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 17
+      },
+      {
+        "Brand": "Ode by House of Pataudi",
+        "Gender": "Men",
+        "Article_Type": "Kurtas",
+        "Shipping Level": 1,
+        "Commission_Percentage": 5,
+        "MFB": 1,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Ode by House of Pataudi",
+        "Gender": "Men",
+        "Article_Type": "Kurta Sets",
+        "Shipping Level": 2,
+        "Commission_Percentage": 5,
+        "MFB": 1,
+        "Royalty": 9,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Kurtas",
+        "Shipping Level": 1,
+        "Commission_Percentage": 7,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 12
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Lehenga Choli",
+        "Shipping Level": 4,
+        "Commission_Percentage": 12,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 17
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Kurta Sets",
+        "Shipping Level": 2,
+        "Commission_Percentage": 9,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 14
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Skirts",
+        "Shipping Level": 1,
+        "Commission_Percentage": 10,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Palazzos",
+        "Shipping Level": 1,
+        "Commission_Percentage": 7,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 12
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Tops",
+        "Shipping Level": 1,
+        "Commission_Percentage": 7,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 12
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Dresses",
+        "Shipping Level": 1,
+        "Commission_Percentage": 10,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Trousers",
+        "Shipping Level": 1,
+        "Commission_Percentage": 7,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 12
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Co-Ords",
+        "Shipping Level": 1,
+        "Commission_Percentage": 10,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Leggings",
+        "Shipping Level": 1,
+        "Commission_Percentage": 10,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 15
+      },
+      {
+        "Brand": "Sangria",
+        "Gender": "Women",
+        "Article_Type": "Co-Ords",
+        "Shipping Level": 1,
+        "Commission_Percentage": 9,
+        "MFB": 4,
+        "Royalty": 1,
+        "Commision+MFB+Royalty": 14
+      }
+    ]
+  }
