@@ -25,9 +25,7 @@ function App() {
           <Route path="/aspfindereasyship" element={<Amzmain />} />
           <Route path="/aspfinderprimeonly" element={<Amzprimemain />} />
           <Route path="/aspfinderfba" element={<Amzfbamain />} />
-
           <Route path="/aspcalculator" element={<Myntraforward />} />
-
           {/* <Route path='/' element={<Excel2/>}/>
           <Route index element={<Home/>}/> */}
         </Routes>
