@@ -10,7 +10,7 @@
 
 # production
 /build
-/*.json
+src/component/**/*.json
 
 # misc
 .DS_Store
