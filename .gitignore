@@ -12,6 +12,7 @@
 /build
 component/
 *.json
+/src
 
 # misc
 .DS_Store
