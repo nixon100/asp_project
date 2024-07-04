@@ -10,7 +10,7 @@
 
 # production
 /build
-/component
+component/
 
 # misc
 .DS_Store
